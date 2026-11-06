@@ -7,3 +7,5 @@ List of low-priced GPU Compute Platforms for powerful compute
 [Shadeform](https://www.shadeform.ai)
 
 [RunPod](https://www.runpod.io)
+
+[QIT](https://qit.energy)
